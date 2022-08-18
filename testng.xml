@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MavenPractive">
+  <test name="part1">
+  
+   <classes>
+   <class name = "Testclass1"/>
+   <class name = "TestClass2"/>
+   <class name = "TestClass3"/>
+   </classes>
+  
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
