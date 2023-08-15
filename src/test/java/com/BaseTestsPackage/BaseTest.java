@@ -10,7 +10,7 @@ public class BaseTest {
 	
 	
 	WebDriver driver = new ChromeDriver();
-	driver.manage().window().maximize();
+	
 
 	String Productname = "ZARA COAT 3";
 	driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
